@@ -1,4 +1,3 @@
-# Al-Khawarizmi_Tour_AK26
 # HaT @ AKT26 · Team Transformers
 
 **Air-quality data science + a Julia HPC speed run, with every claim backed by a number.**
