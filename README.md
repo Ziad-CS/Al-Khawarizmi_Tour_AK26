@@ -127,7 +127,7 @@ It is one library call, fully accurate, and far inside an hourly deadline.
 **Python** (Air-quality notebooks): Python 3.10+, `pandas`, `numpy`, `scikit-learn`, `scipy`, `matplotlib`, `joblib`.
 
 ```bash
-pip install pandas numpy scikit-learn scipy matplotlib joblib jupyter
+pip3 install pandas numpy scikit-learn scipy matplotlib joblib jupyter
 jupyter notebook
 ```
 
